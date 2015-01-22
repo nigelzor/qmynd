@@ -168,6 +168,8 @@
                                      +mysql-type-medium-blob+
                                      +mysql-type-long-blob+
                                      +mysql-type-blob+
+                                     +mysql-type-string+
+                                     +mysql-type-var-string+
                                      +mysql-type-enum+
                                      +mysql-type-set+
                                      +mysql-type-geometry+)
